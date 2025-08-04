@@ -7,3 +7,6 @@ and the BorrowRecords Tracks borrowing transactions linking books and members.
 # Entities & Relationships
 Authors (author_id) ───< Books (book_id)
 Books (book_id) ───< BorrowRecords (borrow_id) >─── Members (member_id)
+
+# Workbench
+this task is done using MYSQL Workbench
